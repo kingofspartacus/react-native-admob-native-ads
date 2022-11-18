@@ -48,8 +48,7 @@ export const MediaView = ({aspectRatio = 1.5}) => {
           height: 50,
           justifyContent: 'center',
           alignItems: 'center',
-        }}
-      >
+        }}>
         <Text>Pause/Play</Text>
       </TouchableOpacity>
     </>

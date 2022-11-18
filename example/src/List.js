@@ -28,15 +28,13 @@ const List = () => {
             borderBottomColor: 'orange',
             width: '100%',
             paddingHorizontal: 12,
-          }}
-        >
+          }}>
           <Text
             style={{
               paddingHorizontal: 12,
               height: 60,
               textAlignVertical: 'center',
-            }}
-          >
+            }}>
             {item}
           </Text>
         </View>
